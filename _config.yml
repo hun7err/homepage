@@ -1,0 +1,19 @@
+# Site settings
+title: cat /dev/urandom
+header-img: img/home-bg.jpg
+email: contact@kmarciniak.com
+description: "Personal blog/devlog by Krzysztof Marciniak. Programming, gamedev, administration and other topics are covered here."
+baseurl: ""
+url: 
+disqus: kmarciniak_com
+twitter_username: hun7err
+github_username:  hun7err
+facebook_username:  hun7err
+gems: ['jekyll-paginate']
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
