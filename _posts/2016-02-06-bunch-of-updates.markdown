@@ -19,3 +19,6 @@ You might have seen I've returned on GitHub pushing some projects (both universi
 <p>
 In 2 weeks I will also start working on my master thesis, which (if nothing changes) will be an algorithm solving the Global Illumination problem in (quasi-) realtime. If possible, I will share at least the idea and some screenshots of a working application.
 </p>
+<p>
+Next week should be a bit easier in terms of the work needed to be done, so I might add some new posts. See you around!
+</p>
