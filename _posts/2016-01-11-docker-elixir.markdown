@@ -17,7 +17,7 @@ author:     "Krzysztof Marciniak"
 <p>
 <blockquote>
 <b>Disclaimer</b>:
-As of the moment I'm writing this, the latest version of Elixir and Erlang are, respectively, 1.2 and 18.1. It might be that when you're reading this the situation has changed and <i>trenpixster/elixir</i> is no longer the one with latest version; then simply search for elixir images (<i>docker search elixir</i>) and use that one instead, the only requirement is for the image to have Elixir (to be specific, the Elixir console - <i>iex</i>).
+As of the moment I'm writing this, the latest version of Elixir and Erlang are, respectively, 1.2 and 18.1. It might be that when you're reading this the situation has changed and <i>trenpixster/elixir</i> is no longer the one with the latest version; then simply search for elixir images (<i>docker search elixir</i>) and use that one instead, the only requirement is for the image to have Elixir (to be specific, the Elixir console - <i>iex</i>).
 </blockquote>
 </p>
 
